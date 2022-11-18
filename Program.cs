@@ -15,5 +15,7 @@ namespace UmbracoProject
                     webBuilder.UseStaticWebAssets();
                     webBuilder.UseStartup<Startup>();
                 });
+
+                //Add new lines here
     }
 }
